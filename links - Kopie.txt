@@ -6,9 +6,13 @@ https://www.biodiversitaet2010.ch/wissen/ursachen/index.html
 https://www.umweltnetz-schweiz.ch/themen/bildung/1315-schweiz-biodiversit%C3%A4t-geht-verloren.html
 https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-51198.html
 https://www.nzz.ch/wissenschaft/biodiversitaet-zehn-antworten-zur-biologischen-vielfalt-ld.1478405?reduced=true#subtitle-was-ist-biodiversit-t-second
+<<<<<<< HEAD
 
 
 si·ne ira et stu·dio
 
 
 https://boholfloraandfauna.wordpress.com/our-share-on-conservation/	
+=======
+https://www.bfn.de/fileadmin/BfN/service/Dokumente/skripten/skript148.pdf
+>>>>>>> ff56e1829d60f11ad58717a5e01a652957d21cb2
